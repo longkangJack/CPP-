@@ -1,0 +1,27 @@
+﻿  queue.cpp
+D:\正常下载文档\Test.cpp\Test.cpp\queue.cpp(53,12): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ]
+D:\正常下载文档\Test.cpp\Test.cpp\queue.cpp(54,12): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ]
+D:\正常下载文档\Test.cpp\Test.cpp\queue.cpp(55,12): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ]
+D:\正常下载文档\Test.cpp\Test.cpp\queue.cpp(56,12): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ]
+D:\正常下载文档\Test.cpp\Test.cpp\queue.cpp(57,12): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ]
+  Test.cpp.vcxproj -> D:\正常下载文档\Test.cpp\Debug\Test.cpp.exe
